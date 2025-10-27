@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/Tetris7/testimonials-grid-section-main.git
-- Live Site URL: https://tetris7.github.io/testimonials-grid-section-main/
+- Solution URL: https://github.com/Tetris7/chef-werz-shawarma-card.git
+- Live Site URL: https://tetris7.github.io/chef-werz-shawarma-card/
 
 ## My process
 
